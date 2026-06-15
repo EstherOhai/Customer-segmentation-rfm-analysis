@@ -65,6 +65,3 @@ The dashboard includes:
 ## Dashboard Preview
 (Add dashboard screenshot here)
 
-
-## Author
-Esther Ohai
