@@ -63,5 +63,5 @@ The dashboard includes:
 - Special Premium packages and exclusive deals can be introduced to encourage higher spending among existing customers and expand the Big Spenders segment.
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+![Dashboard](dashboard_preview.png)
 
